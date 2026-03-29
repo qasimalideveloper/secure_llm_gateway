@@ -5,7 +5,9 @@ A security gateway for LLM applications built with Flask and Microsoft Presidio
 
 1. Download the files
 2. Install the requirements using this command:
-   pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 3. Run the server using this command:
    python main.py
 
