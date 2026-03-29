@@ -1,4 +1,4 @@
-# secure_llm_gateway
+# Secure LLM Gateway
 A security gateway for LLM applications built with Flask and Microsoft Presidio
 
 ## Installation
